@@ -132,7 +132,7 @@ KPI:    	Churn Rate (Logo), Logo Churn: How many customers left?
 */
 SELECT (COUNT(account_id)::float / (
 	SELECT COUNT(account_id)
-	FROM accounts) * 100) AS trial_to_paid_conversion
+	FROM accounts) * 100) 
 FROM accounts
 WHERE churn_flag = true
 

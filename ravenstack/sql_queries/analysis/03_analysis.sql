@@ -5,7 +5,7 @@ Script:         03_analysis.sql
 Database:       PostgreSQL
 Author:         Saw Yu Nwe
 Date:           2026-01-26
-Description:    Collection of SQL queries for Key KPIs
+Description:    Collection of SQL queries analysis
 ================================================================================
 */
 
@@ -40,3 +40,8 @@ true		| false			| 	72
 false		| true			|	85
 ================================================================================
 */
+
+
+
+
+
