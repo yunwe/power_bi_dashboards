@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
     *  Python
         * [Logistics Operations: Diagnostic Analysis Report ](https://github.com/yunwe/olist-logistics-efficiency)
     *  SQL, Power BI
-        * [SaaS Subscription & Churn Analytics ](./ravenstack)
+        * [SaaS Subscription Metrics Analytics ](./ravenstack)
     *  Power BI
         * [Grocery Sales Analysis](./grocery_sales/)
 *  Education
@@ -34,12 +34,12 @@ Successfully, identified logistic bottlenecks and FIFO performance.
 
 **Tech Stack:** Python 3.13.11 (pandas, numpy, geopandas, etc..)   
 
-### 2) SaaS Subscription & Churn Analytics
-
+### 2) SaaS Subscription Metrics Analytics
+This project demonstrates the ability to transform raw subscription data into high-level business intelligence metrics. The primary focus is on advanced SQL data transformation and interactive Power BI dashboarding.
 
 **Project:**  [View Project](./ravenstack/)
 
-**Dashboard:** [Coming Soon](#)
+**Dashboard:** [Perview](./ravenstack/power_bi/screenshots/pg1.png)
 
 **Tech Stack:** SQL, Power BI
 
