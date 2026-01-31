@@ -39,7 +39,7 @@ This project demonstrates the ability to transform raw subscription data into hi
 
 **Project:**  [View Project](./ravenstack/)
 
-**Tech Stack:** SQL, Power BI
+**Tech Stack:** SQL (CTEs, Windows Functions LAG(), SUM(), OVER()), Power BI
 
 ### 3) Grocery Sales Analysis
 The project focused on analyzing grocery sales data in 1997 - 1998, in USA, Mexico, and Canada. The project included cleaning data, and fiding business insights. Successfully identifyied key sales drivers, customer purchasing patterns, and inventory optimization opportunities.
